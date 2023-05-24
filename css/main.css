@@ -35,7 +35,7 @@ body {
 
 /*Title style*/
 .siteheader {
-    margin-left: 30px;
+    margin-left: 230px;
 }
 
 /*Emojis cards layout*/
@@ -45,6 +45,8 @@ grid-template-columns: repeat(2,1fr);
 margin: 30px;
 gap: 15px;
 justify-items: center;
+padding-right: 200px;
+padding-left: 200px;
 }
 
 /*Icon on top with order property*/
